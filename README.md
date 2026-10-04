@@ -1,5 +1,3 @@
-# Hey! 👋🏼  I'm Ivan
-
 ### ⁍ GitHub Stats
 
 <p align="center">
