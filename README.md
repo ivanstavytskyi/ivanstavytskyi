@@ -1,3 +1,30 @@
+```js
+┌──(ivan㉿github)-[~]
+└─$ cat about-me
+
+⁍ Name  : Ivan Stavytskyi
+⁍ Role  : Security Engineer
+⁍ Focus: DevSecOps & AI/LLM Security Researcher
+
+┌──(ivan㉿github)-[~]
+└─$ cat tech-stack
+
+==> Cloud & Edge    : AWS, Azure, Cloudflare
+==> Infrastructure  : Linux, Terraform, Ansible
+==> Containers      : Docker, Kubernetes
+==> CI/CD           : GitLab CI, Jenkins
+==> Observability   : Grafana, Prometheus, Loki, Tempo, OpenTelemetry
+==> Databases       : PostgreSQL, MySQL, MariaDB
+==> Languages       : Python, Java, C++, Shell
+
+┌──(ivan㉿github)-[~]
+└─$ cat timeline
+
+==> Part-time (DevSecOps)  : Sep 2026 - present
+```
+
+---
+
 ### ⁍ GitHub Stats
 
 <p align="center">
