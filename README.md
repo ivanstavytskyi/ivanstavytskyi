@@ -4,7 +4,7 @@
 
 ⁍ Name  : Ivan Stavytskyi
 ⁍ Role  : Security Engineer
-⁍ Focus: DevSecOps & AI/LLM Security Researcher
+⁍ Focus: DevSecOp
 
 ┌──(ivan㉿github)-[~]
 └─$ cat tech-stack
@@ -20,7 +20,7 @@
 ┌──(ivan㉿github)-[~]
 └─$ cat timeline
 
-==> Part-time (DevSecOps)  : Sep 2026 - present
+==> Part-time (Security Dormitory Technician)  : Sep 2026 - present
 ```
 
 ---
