@@ -4,7 +4,7 @@
 
 ⁍ Name  : Ivan Stavytskyi
 ⁍ Role  : Security Engineer
-⁍ Focus: DevSecOp
+⁍ Focus: DevSecOps
 
 ┌──(ivan㉿github)-[~]
 └─$ cat tech-stack
