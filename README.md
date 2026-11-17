@@ -20,7 +20,7 @@
 ┌──(ivan㉿github)-[~]
 └─$ cat timeline
 
-==> Part-time (Security Dormitory Technician)  : Sep 2026 - present
+==> Part-time (Dormitory Security Technician)  : Sep 2026 - present
 ```
 
 ---
